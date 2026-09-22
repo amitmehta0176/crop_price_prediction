@@ -2,7 +2,7 @@ import streamlit as st
 import pandas as pd
 import joblib
 from datetime import date
-##
+
 st.set_page_config(
     page_title="AgriPrice AI",
     page_icon="🌾",
